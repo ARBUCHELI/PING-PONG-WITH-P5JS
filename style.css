@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+
+  body {
+    overflow-x: hidden; /* Eliminate horizontal scrolling */
+    /* OR */
+    overflow-y: hidden; /* Eliminate vertical scrolling */
+  }
